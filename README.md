@@ -4,6 +4,7 @@ By Oded Hupert and Ethan Baron
 
 
 [Results Page](https://www.notion.so/odedhupert/CLIP-Guided-Giraffe-Results-f3d9f33c44574cbe9f498a373a45b7f1)
+[Slides](https://1drv.ms/p/s!AqJh54N3yAICjpsKErSg2ydoYF3f6g?e=ArDki4)
 
 Based on Giraffe
 
