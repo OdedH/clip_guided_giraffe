@@ -1,5 +1,9 @@
-# Final Project 3D - CLIP Guided Giraffe
+# CLIP Guided Giraffe
+## Final Project, 3D Modeling course 2022-3, TAU
 By Oded Hupert and Ethan Baron
+
+
+[Results Page](https://www.notion.so/odedhupert/CLIP-Guided-Giraffe-Results-f3d9f33c44574cbe9f498a373a45b7f1)
 
 Based on Giraffe
 
